@@ -1,4 +1,4 @@
-# webside-links
+# website-links
 
 crickte player info frontend: https://cricket-player-info-frontend-vbd3.vercel.app/
 
