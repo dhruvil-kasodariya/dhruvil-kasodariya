@@ -4,26 +4,31 @@
 
 - **Demo Link**: [Cricket Player Info Frontend Demo](https://cricket-player-info-frontend-vbd3.vercel.app)
 - **Source Code**: [Cricket Player Info Frontend GitHub](https://github.com/iambunty45/cricket-player-info-frontend)
+- **Technologies Used**:react.js ,redux ,javaScript ,rapid API
 
 ## Cricket Player Info Backend
 
 - **Demo Link**: [Cricket Player Info Backend Demo](https://cricket-player-info-backend.onrender.com)
 - **Source Code**: [Cricket Player Info Backend GitHub](https://github.com/iambunty45/cricket-player-info-backend)
+- **Technologies Used**:node.js ,express.js ,mongoDB
 
 ## E-Commerce Cloth King
 
 - **Demo Link**: [E-Commerce Cloth King Demo](https://earnest-malabi-ec511e.netlify.app)
 - **Source Code**: [E-Commerce Cloth King GitHub](https://github.com/dhruvil-kasodariya/E-Commerce-002-typeScript)
+- **Technologies Used**:react.js ,redux ,typeSciprt ,firebase
 
 ## React Table
 
 - **Demo Link**: [React Table Demo](https://react-table-murex.vercel.app)
 - **Source Code**: [React Table GitHub](https://github.com/dhruvil-kasodariya/react-table)
+- **Technologies Used**:react.js ,javaScript ,react-table
 
 ## WhatsApp Clone (Work in Progress)
 
 - **Demo Link**: [WhatsApp Clone Demo](https://whats-app-clone-frontend.vercel.app)
 - **Source Code**: [WhatsApp Clone GitHub](https://github.com/dhruvil-kasodariya/whatsApp-clone)
+- **Technologies Used**:next.js ,redux ,javaScript ,mongoDB
 
 ---
 
