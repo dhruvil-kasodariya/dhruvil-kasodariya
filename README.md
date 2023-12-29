@@ -30,6 +30,12 @@
 - **Source Code**: [WhatsApp Clone GitHub](https://github.com/dhruvil-kasodariya/whatsApp-clone)
 - **Technologies Used**:next.js ,redux ,javaScript ,mongoDB
 
+## Weather app
+
+- **Demo Link**:[Weather app Demo](https://weather-nextjs-mu.vercel.app)
+- **Source Code**: [WhatsApp Clone GitHub](https://github.com/dhruvil-kasodariya/weather-nextjs)
+- **Technologies Used**:TypeScript ,JavaScript ,Next.js ,Tailwind CSS
+
 ---
 
 ## About Me
