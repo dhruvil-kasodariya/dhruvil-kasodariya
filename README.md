@@ -33,7 +33,7 @@
 ## Weather app
 
 - **Demo Link**:[Weather app Demo](https://weather-nextjs-mu.vercel.app)
-- **Source Code**: [WhatsApp Clone GitHub](https://github.com/dhruvil-kasodariya/weather-nextjs)
+- **Source Code**: [Weather app GitHub](https://github.com/dhruvil-kasodariya/weather-nextjs)
 - **Technologies Used**:TypeScript ,JavaScript ,Next.js ,Tailwind CSS
 
 ---
