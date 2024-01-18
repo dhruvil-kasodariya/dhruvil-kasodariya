@@ -72,8 +72,8 @@ Hello! I'm Dhruvil Kasodariya, a passionate developer with experience in react.j
   
 ## Rick and Monty
 
-- **Demo Link**:[Weather app Demo](https://dapper-elf-9c1c82.netlify.app)
-- **Source Code**: [Weather app GitHub](https://github.com/dhruvil-kasodariya/rick-and-monty-character-info)
+- **Demo Link**: [Rick and Monty](https://dapper-elf-9c1c82.netlify.app)
+- **Source Code**: [Rick and Monty GitHub](https://github.com/dhruvil-kasodariya/rick-and-monty-character-info)
 - **Technologies Used**:TypeScript ,JavaScript ,React.js ,Tailwind CSS ,Redux 
 
 
