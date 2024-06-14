@@ -14,6 +14,7 @@ Hello! I'm Dhruvil Kasodariya, a passionate developer with experience in react.j
 - Node.js
 - Next.js
 - Tailwind CSS
+- Material UI
 - MongoDB
 - MySQL
 - Firebase
@@ -22,6 +23,8 @@ Hello! I'm Dhruvil Kasodariya, a passionate developer with experience in react.j
 - Redux
 - socket.io
 - react-table
+- openlayer
+- simple-react-map
 
 ## Contact
 
@@ -74,8 +77,13 @@ Hello! I'm Dhruvil Kasodariya, a passionate developer with experience in react.j
 
 - **Demo Link**: [Rick and Monty](https://dapper-elf-9c1c82.netlify.app)
 - **Source Code**: [Rick and Monty GitHub](https://github.com/dhruvil-kasodariya/rick-and-monty-character-info)
-- **Technologies Used**:TypeScript ,JavaScript ,React.js ,Tailwind CSS ,Redux 
+- **Technologies Used**:TypeScript ,JavaScript ,React.js ,Tailwind CSS ,Redux
 
+## Maps
+
+- **Demo Link**:[Maps](https://maps-alpha-bice.vercel.app/)
+- **Source Code**:[Maps GitHub](https://github.com/dhruvil-kasodariya/maps)
+- **Technologies Used**:JavaScript ,React.js ,Openlayer ,Simple-React-Map ,Talwind CSS
 
 
 
