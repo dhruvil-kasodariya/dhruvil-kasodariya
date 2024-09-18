@@ -28,7 +28,7 @@ Hello! I'm Dhruvil Kasodariya, a passionate developer with experience in react.j
 
 ## Contact
 
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/dhruvil-kasodariya-968309213)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/dhruvil-kasodariya-968309213)
 - **Email**: kasodariyadhruvil45@gmail.com
 
 ---
