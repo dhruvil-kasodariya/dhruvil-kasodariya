@@ -25,7 +25,7 @@ Hello! I'm Dhruvil Kasodariya, a passionate developer with experience in react.j
 - Postgresql
 - Firebase
 - Sequelize
-- Prizma
+- Prisma
   
   
 ### Library
