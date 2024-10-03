@@ -10,14 +10,23 @@ Hello! I'm Dhruvil Kasodariya, a passionate developer with experience in react.j
 ### Technology
 - JavaScript
 - TypeScript
+- Solidity
+- Rust
 - React.js
 - Node.js
 - Next.js
+- Remix.js
 - Tailwind CSS
 - Material UI
+- PrimeReact
 - MongoDB
 - MySQL
+- Sqlite
+- Postgresql
 - Firebase
+- Sequelize
+- Prizma
+  
   
 ### Library
 - Redux
@@ -60,7 +69,7 @@ Hello! I'm Dhruvil Kasodariya, a passionate developer with experience in react.j
 - **Source Code**: [React Table GitHub](https://github.com/dhruvil-kasodariya/react-table)
 - **Technologies Used**:react.js ,javaScript ,react-table
 
-## WhatsApp Clone (Work in Progress)
+## WhatsApp Clone 
 
 - **Demo Link**: [WhatsApp Clone Demo](https://whats-app-clone-frontend.vercel.app)
 - **Source Code**: [WhatsApp Clone GitHub](https://github.com/dhruvil-kasodariya/whatsApp-clone)
